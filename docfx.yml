@@ -1,1 +1,8 @@
-files: "**/*.{md|yml}"
+files: "index.md"
+baseUrl: 'https://ppe.docs.microsoft.com'
+routes:
+  /: renzeyutest/
+contribution:
+  gitCommitsTime: build_history.json
+dependencies:
+  _themes: https://github.com/Microsoft/templates.docs.msft#dc15cd526ac1963c876b666f8a21465b7944d308
