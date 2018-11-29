@@ -1,4 +1,6 @@
-files: "index.md"
+files:
+- index.md
+- ref.md
 baseUrl: 'https://ppe.docs.microsoft.com'
 documentId:
   siteBasePath: renzeyutest
