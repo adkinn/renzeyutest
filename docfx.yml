@@ -1,5 +1,7 @@
 files: "index.md"
 baseUrl: 'https://ppe.docs.microsoft.com'
+documentId:
+  siteBasePath: renzeyutest
 routes:
   /: renzeyutest/
 contribution:
