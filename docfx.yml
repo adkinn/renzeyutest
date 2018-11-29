@@ -5,4 +5,5 @@ routes:
 contribution:
   gitCommitsTime: build_history.json
 dependencies:
-  _themes: https://github.com/Microsoft/templates.docs.msft#dc15cd526ac1963c876b666f8a21465b7944d308
+  _themes: https://github.com/Microsoft/templates.docs.msft#master
+theme: https://github.com/Microsoft/templates.docs.msft#master
